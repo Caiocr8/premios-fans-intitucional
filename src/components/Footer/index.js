@@ -4,7 +4,7 @@ import './styles.css'
 
 const Footer = () => {
   return (
-    <div className='bg-[#00567b] h-32 w-full flex justify-around items-center mobile-footer'>
+    <div className='bg-[#00567b] p-5 w-full flex justify-around items-center mobile-footer'>
         <div className='flex flex-col'>
             <h1 className=' font-bold'>Quem somos</h1>
             <a href='/' className='cursor-pointer'>Nosso propósito</a>
