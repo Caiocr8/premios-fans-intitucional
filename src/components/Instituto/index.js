@@ -23,7 +23,7 @@ const Instituto = () => {
         </div>
         <div className='p-5'>
           <div className='flex justify-center'>
-            <button className='bg-[#efc23b] text-[#007fb9] font-bold rounded-full hover:bg-yellow-600 w-56 h-10 text-2xl mb-5'><a href='/'>ACESSE O SITE</a></button>
+            <button className='bg-[#efc23b] text-[#007fb9] font-bold rounded-full hover:bg-yellow-600 w-56 h-10 text-2xl mb-5'><a href='https://casaronald.org.br/'>ACESSE O SITE</a></button>
           </div>
           <img  alt='FOTO CRIANÇAS' src={FotoChild}/>
         </div>
