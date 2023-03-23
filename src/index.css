@@ -16,6 +16,14 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+@media only screen and (max-width: 999px) {
+    body {
+        background-position: center;
+        padding: 10px;
+    }
+
+}
+
 @font-face {
     font-family: "ArtGalleria";
     src: local('ArtGalleria'), url("./fonts/ArtGalleria.ttf"), format("truetype");

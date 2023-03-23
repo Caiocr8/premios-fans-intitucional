@@ -1,0 +1,11 @@
+@media only screen and (max-width: 999px) {
+    .mobile-version-container {
+        padding: 20px;
+        gap: 20px;
+    }
+
+    .mobile-version-title {
+        font-size: 13px;
+    }
+
+}

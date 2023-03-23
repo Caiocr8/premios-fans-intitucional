@@ -1,5 +1,5 @@
 import React from 'react'
-import {AiFillInstagram, AiFillTwitterCircle, AiFillFacebook, AiOutlineWhatsApp} from 'react-icons/ai'
+import {AiFillInstagram, AiOutlineWhatsApp} from 'react-icons/ai'
 import './styles.css'
 
 const Footer = () => {
@@ -16,10 +16,8 @@ const Footer = () => {
             <a href='/' className='cursor-pointer'>Ajuda e pagamento</a>
         </div>
         <div>
-            <button className=' hover:opacity-[0.1]'><AiFillInstagram className='ml-5'  size={30}/></button>
-            <button className=' hover:opacity-[0.1]'><AiFillFacebook className='ml-5' size={30}/></button>
-            <button className=' hover:opacity-[0.1]'><AiFillTwitterCircle className='ml-5' size={30}/></button>
-            <button className=' hover:opacity-[0.1]'><AiOutlineWhatsApp className='ml-5' size={30}/></button>
+            <button className='hover:opacity-[0.1]'><a href='https://instagram.com/premiosfans?igshid=Mzc1MmZhNjY='><AiFillInstagram className='ml-5'  size={30}/></a></button>
+            <button className='hover:opacity-[0.1]'><AiOutlineWhatsApp className='ml-5' size={30}/></button>
         </div>
     </div>
   )

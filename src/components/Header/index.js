@@ -18,9 +18,9 @@ const Header = () => {
             <a className=' w-12' href='/'><img src={Logo} alt="Logo" /></a>
             <nav ref={navRef}>
                 <ul className='nav-list'>
-                    <li><a href='/about-us'> Sobre Nós</a></li>
-                    <li><a href='/about-us'> Instagram</a></li>
-                    <li><a href='/about-us'> Cadastre-se</a></li>
+                    <li><a href='/'> Sobre Nós</a></li>
+                    <li><a href='https://instagram.com/premiosfans?igshid=Mzc1MmZhNjY='> Instagram</a></li>
+                    <li><a href='/'> Cadastre-se</a></li>
                     <li><a href='/' className='search'><AiOutlineSearch size={25} /></a></li>
                     <button className='nav-btn nav-close-btn' onClick={showNavbar}>
                         <FaTimes size={30}/>

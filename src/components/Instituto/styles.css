@@ -1,11 +1,9 @@
 @media only screen and (max-width: 999px) {
-    .mobile-version {
+    .mobile-version-div-container {
         display: flex;
         flex-direction: column;
-    }
-
-    .imagem-menino-amarelo {
-        width: 350px;
+        text-align: center;
+       
     }
 
 }
