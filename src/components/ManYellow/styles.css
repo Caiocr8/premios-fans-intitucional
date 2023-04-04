@@ -2,10 +2,12 @@
     .mobile-version {
         display: flex;
         flex-direction: column;
+        text-align: center;
     }
 
     .imagem-menino-amarelo {
         width: 350px;
+        
     }
 
 }
