@@ -10,7 +10,7 @@ const ManYellow = () => {
             <h1 className=' font-bold text-5xl'>1 TÍTULO</h1>
             <h1 className=' font-bold text-5xl'>22 CHANCES</h1>
             <p>POR APENAS R$ 29,90 VC CONCORRE</p>
-            <p>A 22 CHANCES DE GANHAR MAIS DE R$ 253 MIL</p>
+            <p>A 22 CHANCES DE GANHAR MAIS DE R$ 250 MIL</p>
             <p>EM PRÊMIOS!</p>
         </div>
     </div>
