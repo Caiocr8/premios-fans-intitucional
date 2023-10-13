@@ -9,9 +9,12 @@
 }
 
 body {
-    background-image: url("./assets/bg.png");
-    background-size: cover;
+    background-image: url("./assets/bg-coin.png");
+    background-color: #1e5799;
+    background-repeat: no-repeat;
     background-clip: border-box;
+    background-size: cover;
+    background-position: center;
     color: #fff;
     font-family: 'Montserrat', sans-serif;
 }

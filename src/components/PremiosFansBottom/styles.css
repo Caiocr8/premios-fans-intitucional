@@ -1,0 +1,7 @@
+@media only screen and (max-width: 999px) {
+    .mobile-version-container-back {
+        display: flex;
+        flex-wrap: wrap
+    }
+
+}

@@ -1,0 +1,17 @@
+
+
+@media only screen and (max-width: 999px) {
+    .mobile-version-suporte {
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .img-mobile {
+        height: 50px;
+        display: flex;
+        margin-top: 60px;
+    }
+}

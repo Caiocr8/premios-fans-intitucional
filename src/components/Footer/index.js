@@ -16,7 +16,7 @@ const Footer = () => {
             <a href='/' className='cursor-pointer'>Ajuda e pagamento</a>
         </div>
         <div>
-            <button className='hover:opacity-[0.1]'><a href='https://instagram.com/premiosfans?igshid=Mzc1MmZhNjY='><AiFillInstagram className='ml-5'  size={30}/></a></button>
+            <button className='hover:opacity-[0.1]'><a href='/'><AiFillInstagram className='ml-5'  size={30}/></a></button>
             <button className='hover:opacity-[0.1]'><AiOutlineWhatsApp className='ml-5' size={30}/></button>
         </div>
     </div>

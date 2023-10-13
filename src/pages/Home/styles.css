@@ -10,8 +10,11 @@ header {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    height: 9vh;
-    border-bottom: 1px inset #ffffff36;
+    height: 90px;
+    margin-top: 30px;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
 }
 
 .nav-list {
@@ -20,7 +23,7 @@ header {
 }
 
 .nav-list li {
-    letter-spacing: 3px;
+    letter-spacing: 2px;
     margin-left: 32px;
 }
 
@@ -43,10 +46,6 @@ header .nav-btn {
     header .nav-btn {
         visibility: visible;
         opacity: 1;
-    }
-
-    .search {
-        visibility: hidden;
     }
 
     header nav {
